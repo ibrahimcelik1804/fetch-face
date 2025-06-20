@@ -1,0 +1,4 @@
+export const SCREENS = {
+  USER: 'PERSONEL LİSTESİ',
+  USERDETAIL: 'PROFİL DETAYI',
+};
